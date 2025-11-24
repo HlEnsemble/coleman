@@ -2,8 +2,8 @@
 Coleman website using dark alley as the content repository
 
 ## Environments
-- Preview: https://main--coleman--kchauatadobe.hlx.page/
-- Live: https://main--coleman--kchauatadobe.hlx.live/
+- Preview: https://main--coleman--hlensemble.aem.page/
+- Live: https://main--coleman--hlensemble.aem.live/
 
 ## Installation
 
